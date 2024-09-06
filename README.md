@@ -5,3 +5,5 @@ Este proyecto busca poner en practica los conocimientos que voy adquieriendo poc
 -CSS
 -JS
 -JAVA
+
+Proyecto de practicas en la empresa Alitext
